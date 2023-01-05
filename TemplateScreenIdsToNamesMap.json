@@ -1,0 +1,338 @@
+[
+  {
+    "id": "2af0300d-7973-4226-9afc-f003ef2af6ee",
+    "humanReadableName": "NoKioskError"
+  },
+  {
+    "id": "4d585170-c77a-4dec-87f7-e28b666ae1f6",
+    "humanReadableName": "NoWorkflowError"
+  },
+  {
+    "id": "6f559e9a-2f60-4a1e-8c63-f6746aaeb43b",
+    "humanReadableName": "ClosedScreenError"
+  },
+  {
+    "id": "47edf1db-30ff-4634-ac88-9c9eb0d93fd5",
+    "humanReadableName": "HelpScreenWarning"
+  },
+  {
+    "id": "bad0e0f8-fcbb-499b-ba93-e846e11e07fe",
+    "humanReadableName": "GeneralErrorScreenError"
+  },
+  {
+    "id": "8367213b-280b-4315-8fa1-5755023ad9a7",
+    "humanReadableName": "CreditCard"
+  },
+  {
+    "id": "009a3fac-9e13-46bc-b4ba-4923e4cfaea0",
+    "humanReadableName": "CreditCardError"
+  },
+  {
+    "id": "307515c3-7183-4886-9f4d-abc6be414f69",
+    "humanReadableName": "CreditCardTimeoutError"
+  },
+  {
+    "id": "229ac59c-3ac3-4295-891e-016cc19d24d8",
+    "humanReadableName": "CreditCardCanceledError"
+  },
+  {
+    "id": "48cd7142-09c1-4562-a70d-408281d2fa5e",
+    "humanReadableName": "CreditCardMembership"
+  },
+  {
+    "id": "b193fbff-199b-4526-9054-d15d5a88373a",
+    "humanReadableName": "CreditCardTimeoutMembership"
+  },
+  {
+    "id": "73db9ae2-76b3-4202-8f39-1787e4ad421c",
+    "humanReadableName": "CreditCardCanceledMembership"
+  },
+  {
+    "id": "a369c3db-9a11-4bb4-99ae-fcc9f87ea506",
+    "humanReadableName": "CreditCardDeclinedMembership"
+  },
+  {
+    "id": "c085d935-7c8c-49f6-a0e1-c6cf3b1378eb",
+    "humanReadableName": "PaymentType"
+  },
+  {
+    "id": "74565fdd-4ba3-43e4-a2bf-960b701ad76c",
+    "humanReadableName": "UnifiedMenu"
+  },
+  {
+    "id": "dc51141b-f4ee-465b-bcbb-34b60ed279c5",
+    "humanReadableName": "Idle"
+  },
+  {
+    "id": "93061c37-d850-4299-9324-7e686f960c77",
+    "humanReadableName": "BaseFlowTemplateId"
+  },
+  {
+    "id": "a39060db-165b-4360-bf0e-f31330840ebf",
+    "humanReadableName": "ReceiptYNTemplateId"
+  },
+  {
+    "id": "2276d914-2189-42e8-b3da-c73466c1d993",
+    "humanReadableName": "Welcome"
+  },
+  {
+    "id": "c95a5f65-a16f-4b36-82ed-fdd2a1f061c4",
+    "humanReadableName": "MenuGiftCard"
+  },
+  {
+    "id": "85254a25-845f-44a6-8bc4-d029e2c3f869",
+    "humanReadableName": "MenuBaseFlow"
+  },
+  {
+    "id": "65ee4fde-8816-44f2-b695-d89424a0f063",
+    "humanReadableName": "MenuMembership"
+  },
+  {
+    "id": "456d9bc6-3da0-4855-9cde-3316654e78d9",
+    "humanReadableName": "MenuFullService"
+  },
+  {
+    "id": "e4640daf-809b-40d2-970a-bdbb95741772",
+    "humanReadableName": "MembershipFlowTemplateId"
+  },
+  {
+    "id": "b11af5d0-068d-449b-a485-9d97cc94c188",
+    "humanReadableName": "UpsellFlowTemplateId"
+  },
+  {
+    "id": "ada2c254-62dc-4c18-af1a-512566c78f4e",
+    "humanReadableName": "Upsell"
+  },
+  {
+    "id": "14686106-62de-4268-aaee-d132cb2d2604",
+    "humanReadableName": "TicketBookUpsell"
+  },
+  {
+    "id": "de450374-db58-4d08-8198-e7ecb2aa37a9",
+    "humanReadableName": "Sign"
+  },
+  {
+    "id": "beae87c1-5aff-4648-a376-182fafc80fdb",
+    "humanReadableName": "Terms"
+  },
+  {
+    "id": "935595a4-1b54-4dad-8595-859331146fe4",
+    "humanReadableName": "MobilePhone"
+  },
+  {
+    "id": "132c4d36-c682-44ef-b400-66ba133b1497",
+    "humanReadableName": "Instructions"
+  },
+  {
+    "id": "5c5ed035-4d5e-49ab-b9f8-0acc22db28a9",
+    "humanReadableName": "Cash"
+  },
+  {
+    "id": "75baae90-570a-4b7e-903a-8fa2e4c6564f",
+    "humanReadableName": "GiftCard"
+  },
+  {
+    "id": "33c236f3-dd2b-4ab7-a6aa-7f0932699fcc",
+    "humanReadableName": "ThankYou"
+  },
+  {
+    "id": "bc5c5257-2da1-4928-97c8-eaa8cf6ac7a5",
+    "humanReadableName": "ThankYouError"
+  },
+  {
+    "id": "0f55298f-1950-4272-98d1-d63f537145d2",
+    "humanReadableName": "Receipt"
+  },
+  {
+    "id": "573d971d-cf32-4534-930a-ef780cc2ba3c",
+    "humanReadableName": "PullForward"
+  },
+  {
+    "id": "d0090b91-0cfa-413f-87ef-7d981d3f918f",
+    "humanReadableName": "PullForwardError"
+  },
+  {
+    "id": "5cfc82d7-dc5c-4de2-9408-afd3db3df65a",
+    "humanReadableName": "PleaseWait"
+  },
+  {
+    "id": "3df9bbb6-91ea-4cf9-b1d0-e3510428cb9d",
+    "humanReadableName": "WelcomeTermsError"
+  },
+  {
+    "id": "405f6b23-d15c-4680-8f38-40e2fe63a25e",
+    "humanReadableName": "CreditCardResumePlanCardOnFiledFailedError"
+  },
+  {
+    "id": "ba8c088f-5c82-4194-b786-4f0b170c1ffd",
+    "humanReadableName": "WelcomeResumeSuspendedPlanError"
+  },
+  {
+    "id": "98fb0aee-7063-4d1e-9f2d-831d075111c6",
+    "humanReadableName": "WelcomeRechargeAutomaticWarning"
+  },
+  {
+    "id": "21c66ba8-61d8-46e7-84b7-39d3b5f91826",
+    "humanReadableName": "WelcomeRechargeManualWarning"
+  },
+  {
+    "id": "a7884339-65fd-4289-a9a5-0da902ca6651",
+    "humanReadableName": "WelcomeCardExpirationSoonWarning"
+  },
+  {
+    "id": "7ad9614b-e3a2-4dd5-b66b-0b6ead55b30a",
+    "humanReadableName": "WelcomeLapsedPlanError"
+  },
+  {
+    "id": "119cdf67-efaf-4e65-9435-e99f91ae8670",
+    "humanReadableName": "WelcomeExpiredPlanError"
+  },
+  {
+    "id": "4a23eda8-23e1-4007-b673-0a5c785961d7",
+    "humanReadableName": "WelcomeCardExpirationWarning"
+  },
+  {
+    "id": "51057725-fd14-4e8c-85b9-df4955090005",
+    "humanReadableName": "CashAcceptorOffline"
+  },
+  {
+    "id": "789e1e88-6137-4536-8c49-3f17c53f1897",
+    "humanReadableName": "CashDispenserOffline"
+  },
+  {
+    "id": "e940285b-86ed-4014-b46d-651049d9787e",
+    "humanReadableName": "BarcodeReadError"
+  },
+  {
+    "id": "4ae7339a-cf66-4106-b18e-d40cd6fbe170",
+    "humanReadableName": "GiftCardInUseError"
+  },
+  {
+    "id": "7f752821-d8bf-4644-adb9-1baa0c74fc25",
+    "humanReadableName": "GiftCardNotInSystemError"
+  },
+  {
+    "id": "5bf4eb6c-1414-4c2b-b4fc-1c4270b8bca8",
+    "humanReadableName": "GiftCardZeroBalanceError"
+  },
+  {
+    "id": "a27cdc4d-9159-41e1-85ce-8789c241752f",
+    "humanReadableName": "GiftCardGeneralError"
+  },
+  {
+    "id": "b13338c1-a6f3-45df-9613-aa782ab51f67",
+    "humanReadableName": "PrepaidCardRedemptionError"
+  },
+  {
+    "id": "e0b57ecc-a28c-4006-9b8a-2d5275eb03f0",
+    "humanReadableName": "TicketBookRedemptionError"
+  },
+  {
+    "id": "0102a923-5aa7-48fc-a74d-e4395a6abc9c",
+    "humanReadableName": "TicketBookItems"
+  },
+  {
+    "id": "b20c8ff3-1ed3-410f-94df-14c40c6882f1",
+    "humanReadableName": "TicketBookTicketIsAlreadyRedeemedError"
+  },
+  {
+    "id": "6c5fabb2-8590-4116-b45f-4bc795928233",
+    "humanReadableName": "TicketBookIsNotActivatedError"
+  },
+  {
+    "id": "c6a86d39-f41e-4f0e-aaa1-c44791b14555",
+    "humanReadableName": "CardDispenserError"
+  },
+  {
+    "id": "1942d098-5202-4c6c-befa-333b5a9d6755",
+    "humanReadableName": "CardDispenserErrorUpsell"
+  },
+  {
+    "id": "77ce6f98-4e30-4d22-b7f6-8a5b2377cfbd",
+    "humanReadableName": "TicketBookProductIsNotActivatedError"
+  },
+  {
+    "id": "7135e0fb-33e9-4d57-bfea-d89dc1ddc6c2",
+    "humanReadableName": "ThankYouBarcodeReadError"
+  },
+  {
+    "id": "8376a34e-addc-4501-92ff-ad83e84619f7",
+    "humanReadableName": "ThankYouCardDispenseError"
+  },
+  {
+    "id": "f1c699ca-295a-457c-a554-d1379f4d3f8b",
+    "humanReadableName": "ReceiptYNBarcodeReadError"
+  },
+  {
+    "id": "a3731a27-ba6c-480f-85bb-1084b82938a6",
+    "humanReadableName": "ReceiptYNCardDispenseError"
+  },
+  {
+    "id": "0f1f2c23-311a-4214-a608-f3b244ef7549",
+    "humanReadableName": "PaymentWithCashPaymentError"
+  },
+  {
+    "id": "55b534f8-10c7-4ffe-bc40-f3ebcd4359a3",
+    "humanReadableName": "PaymentWithCashPaymentWarning"
+  },
+  {
+    "id": "be94168e-4ed2-4514-b077-02b4e69b2f2f",
+    "humanReadableName": "InactivePlantWarning"
+  },
+  {
+    "id": "980789d9-ed4a-4f8d-9ffa-37356df9f229",
+    "humanReadableName": "RedeemWashCap"
+  },
+  {
+    "id": "31a48786-6529-4bc3-949d-2e0d009feebf",
+    "humanReadableName": "RedeemWashCapError"
+  },
+  {
+    "id": "cadf9d63-f39f-4914-b991-184765a5d1bd",
+    "humanReadableName": "CouponSuccessfullyScannedConfirmation"
+  },
+  {
+    "id": "cf823258-9e54-49c9-b103-ea39e6bdd88d",
+    "humanReadableName": "InvalidCouponError"
+  },
+  {
+    "id": "13f3bc28-da5f-4571-946a-c590ee5a1b64",
+    "humanReadableName": "ExpiredCouponError"
+  },
+  {
+    "id": "a918620f-5211-4d03-aa22-b66433d283c2",
+    "humanReadableName": "CouponAlreadyAppliedError"
+  },
+  {
+    "id": "34a49e9d-5bf6-4269-ac64-5d1a28697713",
+    "humanReadableName": "CouponCodeConditionsNotMetError"
+  },
+  {
+    "id": "c77f6b28-999e-4a3b-8713-2a061c24d8dc",
+    "humanReadableName": "ScanTag"
+  },
+  {
+    "id": "6df15226-ef35-479e-b510-b9eb447ea634",
+    "humanReadableName": "ScanTagError"
+  },
+  {
+    "id": "20eec671-2e67-4313-8d9f-6cffcb5d8a89",
+    "humanReadableName": "ClosedWorkflowId"
+  },
+  {
+    "id": "e62ceee2-0b6d-49d9-92e2-86fe0b3cbc11",
+    "humanReadableName": "GiftUpsellMenu"
+  },
+  {
+    "id": "732a9628-42c4-437c-8d52-2ae1e07cc439",
+    "humanReadableName": "BarcodeIsNotGenericCodeError"
+  },
+  {
+    "id": "d5dab763-4af4-480a-9327-da2d894bf2d3",
+    "humanReadableName": "WelcomeReloadingPlanError"
+  },
+  {
+    "id": "bbe509fe-ee3c-42f2-a31a-6dc7cbb36e04",
+    "humanReadableName": "QrCodeRedeemedError"
+  }
+]
